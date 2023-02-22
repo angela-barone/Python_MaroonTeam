@@ -5,8 +5,8 @@ from reportlab.lib.pagesizes import A4, landscape
 from reportlab.pdfgen import canvas
 from reportlab.lib.units import mm
 
-# Create a new PDF file called tocrack in a landscape, A4 format
-pdf = canvas.Canvas("tocrack.pdf", pagesize=landscape(A4))
+# Create a new PDF file called Crack_Me in a landscape, A4 format
+pdf = canvas.Canvas("Crack_Me.pdf", pagesize=landscape(A4))
 
 # Set the dimensions of the page
 pdf_w, pdf_h = landscape(A4)
