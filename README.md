@@ -1,6 +1,7 @@
 # Python_MaroonTeam
 
 Part of the Code First Girls Python Hackathon. We had to create a Brute Force Password Cracker using Ptyhon. 
+For a more info please visit: https://www.canva.com/design/DAFaxYtBE6U/Z5ga40NI2p6LjzXfTX-O6Q/edit?utm_content=DAFaxYtBE6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 1) First, we thought it would be interesting to try to 'crack' the password on a password protected PDF file.
 For an extra challenge we used Python to create our own password protected PDF from scratch! We used the 'reportlab' module to do this.
