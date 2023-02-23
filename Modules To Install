@@ -15,5 +15,5 @@ FOR THE BRUTE FORCE ATTACK PASSWORD CRACKER (CFGPythonChallenge.py):
 
 FOR THE CRYPTOGRAPHICALLY SECURE PASSWORD (Secrets.py)
 1) Install Secrets: pip install secrets
-
+2) Install pyOpenSSL: pip install pyOpenSSL
 
