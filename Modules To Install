@@ -1,4 +1,4 @@
-Even though the presentation shows how the code runs, if you would like to replecate our project you must install some modules.
+Even though our presentation shows how the code runs, if you would like to replecate our project you must install some modules.
 
 First of all, you need to create a virtual environment. Type in the terminal:  
 python3 -m venv C:\Users\...filedestination....\venv (in my case, it was "python3 -m venv C:\Users\angel\OneDrive\Desktop\venv");
